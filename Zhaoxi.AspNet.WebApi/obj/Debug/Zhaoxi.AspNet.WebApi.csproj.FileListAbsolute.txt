@@ -1,0 +1,189 @@
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll.config
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CopyComplete
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\02 Asp.NetCoreWebApi\02 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csprojAssemblyReference.cache
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll.config
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CopyComplete
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\03 Asp.NetCoreWebApi\03 Asp.NetCoreWebApi\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll.config
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csprojAssemblyReference.cache
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CopyComplete
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-.NetCore-WebApi\RNetCoreWebApi\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll.config
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CopyComplete
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.dll
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.pdb
+D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csprojAssemblyReference.cache
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll.config
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Zhaoxi.AspNet.WebApi.pdb
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Newtonsoft.Json.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Net.Http.Formatting.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Helpers.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Http.WebHost.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Mvc.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Optimization.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.Razor.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CoreCompileInputs.cache
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csproj.CopyComplete
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.pdb
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Options.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.OpenApi.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Buffers.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Memory.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Numerics.Vectors.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Text.Encodings.Web.dll
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Options.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.OpenApi.pdb
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Microsoft.OpenApi.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Buffers.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Memory.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Numerics.Vectors.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\bin\System.Text.Encodings.Web.xml
+D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.AspNet.WebApi\obj\Debug\Zhaoxi.AspNet.WebApi.csprojAssemblyReference.cache

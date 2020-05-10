@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zhaoxi.Core.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Zhaoxi.Core.WebApi.Controllers.AuthorizeController">
+            <summary>
+            鉴权中心
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Controllers.AuthorizeController.#ctor(Microsoft.Extensions.Logging.ILogger{Zhaoxi.Core.WebApi.Controllers.AuthorizeController},Zhaoxi.Core.WebApi.Utility.IJWTService)">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+            <param name="iJWTService"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Controllers.AuthorizeController.Get(Zhaoxi.Core.WebApi.TestClass)">
+            <summary>
+            这个是OK的，这个Api并没有要求授权
+            </summary>
+            <param name="testClass">测试类</param>
+            <returns></returns>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Controllers.AuthorizeController.GetToken(Zhaoxi.Core.WebApi.UserInfo)">
+            <summary>
+            根据用户登录信息，获取tokend
+            </summary>
+            <param name="userInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Controllers.AuthorizeController.GetAuthorizeData">
+            <summary>
+            测试已授权方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Controllers.FirstController">
+            <summary>
+            严格遵循RestFull 风格 get、post、put、delete
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Controllers.SecondController.Get">
+            <summary>
+            测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Builder标准的建造者模式
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Startup">
+            <summary>
+            Core 项目中导出都是IOC + DI
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            被运行时调用的  还有什么？
+            执行且只执行一次；
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.TestClass">
+            <summary>
+            测试类
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.TestClass.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.UserInfo">
+            <summary>
+            用户登录信息
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.UserInfo.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.UserInfo.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomActionFilterAttribute.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            方法执行后
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomActionFilterAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            方法执行前
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomControllerActionFilterAttribute.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            方法执行后
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomControllerActionFilterAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            方法执行前
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomGlobalActionFilterAttribute.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            方法执行后
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomGlobalActionFilterAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            方法执行前
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.CustomIOCFilterFactoryAttribute.CreateInstance(System.IServiceProvider)">
+            <summary>
+            在Core 中对象的创建 都是通过IOC 容器来创建
+            </summary>
+            <param name="serviceProvider"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Utility.IJwtHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Utility.JwtHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.JwtHelper.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="iConfiguration"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.JwtHelper.GetToken(Zhaoxi.Core.WebApi.Utility.TokenModelJWT)">
+            <summary>
+            
+            </summary>
+            <param name="tokenModel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Utility.TokenModelJWT">
+            <summary>
+            令牌
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.Utility.TokenModelJWT.Uid">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.Utility.TokenModelJWT.Role">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="P:Zhaoxi.Core.WebApi.Utility.TokenModelJWT.Work">
+            <summary>
+            职能
+            </summary>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Utility.IJWTService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.IJWTService.GetToken(Zhaoxi.Core.WebApi.UserInfo)">
+            <summary>
+            
+            </summary>
+            <param name="userInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.Core.WebApi.Utility.JWTService">
+            <summary>
+            备注下：代码演示的是对称加密，所以只有一个key，在返回的信息里面是没有的
+                    PPT介绍时，说的是非对称的，那样是把解密key公开的，前面是后台用私钥加密的，
+            可以保证别人解密后 拿到的数据  跟前面2部分hash后的结果一致 保证没有篡改
+             此外，公钥不是在返回结果，那只是个打比方~
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.JWTService.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Zhaoxi.Core.WebApi.Utility.JWTService.GetToken(Zhaoxi.Core.WebApi.UserInfo)">
+            <summary>
+            
+            </summary>
+            <param name="userInfo"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

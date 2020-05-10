@@ -1,0 +1,8 @@
+2020-03-17 15:37:21,837 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8004
+2020-03-17 15:37:21,847 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-17 15:37:21,847 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-03-17 15:37:21,848 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\zhaoxiEDU\04 Asp.NetCoreWebApi_AuthenticationCenter\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi\bin\Debug\netcoreapp3.1
+2020-03-17 15:38:46,908 [6] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-03-17 15:40:52,771 [23] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-03-17 15:41:57,463 [28] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-03-17 16:00:21,157 [2] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...

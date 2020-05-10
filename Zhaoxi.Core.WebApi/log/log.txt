@@ -1,0 +1,128 @@
+2020-05-10 11:55:41,810 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 11:55:41,828 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 11:55:41,834 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 12:20:17,649 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 12:20:17,725 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 12:20:17,737 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 12:28:39,277 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 12:28:39,320 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 12:28:39,330 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 12:28:59,159 [5] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 12:55:22,733 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 12:55:22,752 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 12:55:22,771 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:25:03,866 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:25:03,910 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:25:03,916 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:25:05,476 [8] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:26:42,482 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:26:42,511 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:26:42,530 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:26:44,179 [9] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:26:44,262 [5] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:26:55,532 [6] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:27:55,525 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:27:55,556 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:27:55,567 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:27:56,764 [5] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:28:08,669 [8] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:30:20,158 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:30:20,182 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:30:20,198 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:30:21,193 [10] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: HTTP method "GET" & path "WeatherForecast" overloaded by actions - Zhaoxi.Core.WebApi.Controllers.WeatherForecastController.Get (Zhaoxi.Core.WebApi),Zhaoxi.Core.AuthenticationCenter.Controllers.WeatherForecastController.Get (Zhaoxi.Core.AuthenticationCenter). Actions require unique method/path combination for OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-10 13:33:14,448 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:33:14,479 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:33:14,490 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:36:47,214 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:36:47,270 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:36:47,284 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:37:20,592 [4] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 13:45:41,535 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:45:41,559 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:45:41,568 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:46:15,565 [12] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 13:56:40,910 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:56:40,928 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:56:40,936 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:57:54,367 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:57:54,400 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:57:54,436 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:59:00,921 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 13:59:00,942 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 13:59:00,949 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 13:59:20,967 [4] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:04:15,289 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:04:15,310 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:04:15,322 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 14:04:23,683 [4] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:15:00,031 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:15:00,076 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:15:00,082 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 14:15:23,639 [7] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:20:04,426 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:20:04,448 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:20:04,458 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 14:26:37,536 [8] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:26:48,772 [4] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:40:32,939 [20] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:46:14,662 [21] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:46:55,216 [17] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:49:53,164 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:49:53,201 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:49:53,208 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 14:50:42,478 [13] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:54:13,638 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:54:13,690 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:54:13,732 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 14:54:14,903 [8] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 14:59:46,514 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 14:59:46,556 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 14:59:46,566 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 15:00:06,351 [4] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 15:09:27,708 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-10 15:09:27,747 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-10 15:09:27,754 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\学习\04 Asp.NetCoreWebApi_传统鉴权授权PK现在的鉴权授权_Basic授权_Token授权_CoreWebapiJwt授权落地实操\Zhaoxi.CoreProject\Zhaoxi.Core.WebApi
+2020-05-10 15:09:53,193 [13] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
+2020-05-10 15:10:26,071 [18] INFO  Zhaoxi.Core.WebApi.Controllers.AuthorizeController - AuthorizeController 被构造。。。。 
